@@ -14,3 +14,29 @@ h1 {
   text-align: center;
   margin: 20px 0;
 }
+
+#form {
+  text-align: center;
+}
+
+.gif-container {
+ width: 100%;
+  margin: 0 auto ; 
+}
+
+h1 {
+  color: white;
+  margin-top: 5vh;
+}
+
+body {
+  background-color: black;
+}
+
+#search_button {
+ background-color: black;
+} 
+
+
+
+
